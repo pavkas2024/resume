@@ -1,0 +1,17 @@
+:root {
+    --blue-hover: #162C6B;
+    --blue-focus: #2F55C2;
+    --beige-hover:#D9C6AE;
+    --beige-focus: #BFA77F;
+    --link-hover: #1F3A93;
+    --white-text: #FFFFFF;
+    --black-txt:#222222;
+    --light-beige: #F5F0E6;
+    --beige: #EADDC8;
+    --gray-txt: #5E5E5E;
+    --blue-main: #1F3A93;
+    --accent-disable: #D7C7A5;
+    --transparent-hover:rgba(255, 255, 255, 0.24);
+    --transparent-click: #979797;
+    --transition: cubic-bezier(0.4, 0, 0.2, 1);
+}
