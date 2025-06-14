@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="100" viewBox="0 0 180 100">
+	<style>
+    .black { font: bold 50px sans-serif; fill: black; }
+</style>
+	<text x="5" y="70" class="black">D</text>
+	<g transform="translate(45,20)">
+		<path d="M0,0 L0,50 L18,50" stroke="#2ecc71" stroke-width="6" fill="none"/>
+		<path d="M0,0 C8,-10 18,-10 22,0 C18,10 8,10 0,0 Z" fill="#2ecc71" transform="translate(0,-10)"/>
+	</g>
+	<text x="85" y="70" class="black">P</text>
+</svg>

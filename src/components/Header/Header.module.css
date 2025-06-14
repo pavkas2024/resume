@@ -2,8 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
-    color: #B123AA;
+    background-color: var(--gray-txt);
+    color: var(--light-beige);
     padding: 15px 20px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
@@ -19,7 +19,7 @@
   }
   
   .languageButton {
-    background-color: #555;
+    background-color: #333;
     color: white;
     border: none;
     padding: 8px 15px;
@@ -30,5 +30,5 @@
   }
   
   .languageButton:hover {
-    background-color: #777;
+    background-color: var(--transparent-click);
   }

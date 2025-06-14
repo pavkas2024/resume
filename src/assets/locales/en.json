@@ -1,4 +1,81 @@
 {
-    "hello": "Hello, welcome to my site!",
-    "description": "This is a bilingual site with English and Ukrainian."
-  }
+    "name": "Pavlo",
+    "surname": "Kasyanov",
+    "position": "Director",
+    "organization": "Educational and Scientific Complex 'Institute for Applied System Analysis' at National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'",
+    "shortOrg": "ESC IASA",
+    "description": "dfrgrtbtbgbtgebtebtbe",
+    "corMemb": "Corresponding Member of the National Academy Science of Ukraine",
+    "degree": "Dr. Hub. in Physics and Mathematics",
+    "acadTitle": "Professor",
+    "proj": [
+        {
+            "title": "BSA24078 'Development of an integrated approach to highthroughput modeling of protein complexes, protein structurefunction relationships, and prediction of the phenotypic effects of single amino acid variation based on the kinetic aspects of protein association in cellular environment' ",
+            "yearStart": "2023",
+            "yearEnd": "2024",
+            "org": "University of Kansas Center for Research, Inc. (“KUCR”), USA",
+            "description": "",
+            "site": ""
+        },
+        {
+            "title": "N000142412646 'New Foundations and Algorithms for RiskAware Sequential Decision Processes with Defense Applications' ",
+            "yearStart": "2024",
+            "yearEnd": "2027",
+            "org": "Office of Naval Research, USA",
+            "description": "",
+            "site": ""
+        },
+        {
+            "title": "7131 'Modeling of protein interactions to predict phenotypic effects of genetic mutations' ",
+            "yearStart": "2025",
+            "yearEnd": "2027",
+            "org": "Science & Technology Center in Ukraine (IMPRESS-U)",
+            "description": "",
+            "site": ""
+        },
+        {
+            "title": " 'EuroSpaceHub —increasing the transfer of space innovations and technologies by bringing together the scientific community, industry and startups in the space industry' ",
+            "yearStart": "2022",
+            "yearEnd": "2024",
+            "org": "Europe Commission HEI initiative, EuroSpaceHub",
+            "description": "",
+            "site": ""
+        }
+    ],
+    "sections": ["projects", "contact", "profiles", "scientific interests", "scientific positions and memberships"],
+    "memberships": [
+        {
+            "org": "Presidium of the National Academy of Sciences of Ukraine, Commission for Work with Scientific Youth of the National Academy of Sciences of Ukraine",
+            "position": "Member",
+            "year": "since 2020"
+        },
+        {
+            "org": "International Community for CODATA, ICSU",
+            "position": "Fellow",
+            "year": "since 2011"
+        },
+        {
+            "org": "INFORMS",
+            "position": "Fellow",
+            "year": "since 2022"
+        },
+        {
+            "org": "60th IEEE Conference on Decision and Control (CDC), session 'Advances in Stochastic Control with Partial Information II' ",
+            "position": "co-chair",
+            "year": "2021"
+        },
+        {
+            "org": "Journal of Applied Mathematics and Computing",
+            "position": "Associate Editor",
+            "year": "2013-2022"
+        }
+    ],
+    "adress": {
+        "index": "03056",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "street": "prosp. Beresteiskyi",
+        "build": "build."
+    },
+    "interests": ["System Analysis", "PDEs", "Stochastic Models of Operations Research", "AI", "DL", "RL", "MDPs", "Data Sciences", "Statistics"]
+}
