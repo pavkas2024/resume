@@ -1,6 +1,7 @@
 {
     "name": "Pavlo",
     "surname": "Kasyanov",
+    "patron": "",
     "position": "Director",
     "organization": "Educational and Scientific Complex 'Institute for Applied System Analysis' at National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'",
     "shortOrg": "ESC IASA",
@@ -8,7 +9,7 @@
     "corMemb": "Corresponding Member of the National Academy Science of Ukraine",
     "degree": "Dr. Hub. in Physics and Mathematics",
     "acadTitle": "Professor",
-    "proj": [
+    "projects": [
         {
             "title": "BSA24078 'Development of an integrated approach to highthroughput modeling of protein complexes, protein structurefunction relationships, and prediction of the phenotypic effects of single amino acid variation based on the kinetic aspects of protein association in cellular environment' ",
             "yearStart": "2023",
@@ -70,7 +71,7 @@
             "year": "2013-2022"
         }
     ],
-    "adress": {
+    "address": {
         "index": "03056",
         "country": "Ukraine",
         "city": "Kyiv",

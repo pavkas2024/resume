@@ -1,11 +1,13 @@
 import React from 'react';
 
-import style from "./Footer.module.css";
+import Contacts from '../Contacts/Contacts';
 
+import style from "./Footer.module.css";
 import  logo from "../../images/DLP_compact_logo.svg";
 
-const Footer = () => (
+const Footer = ({currentLang}) => (
     <footer className={style.footer}>
+      <Contacts currentLang={currentLang}/>
       <div className={style.copyrightWrap}>
         <p className={style.copyright}>
           © 2025

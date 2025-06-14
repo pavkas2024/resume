@@ -1,14 +1,17 @@
 import React, { useState } from 'react';
-import { useTranslation } from 'react-i18next';
 
 import Header from './components/Header';
+import Hero from './components/Hero/Hero';
+import InterestsAndProfiles from './components/InterestsAndProfiles/InterestsAndProfiles';
+import Memberships from './components/Memberships/Memberships';
+import Projects from './components/Projects/Projects';
 import Footer from './components/Footer';
 
 import style from "./App.module.css";
 
+
 const App = () => {
-  const { t } = useTranslation();
-  const [language, setLanguage] = useState('en'); 
+  const [language, setLanguage] = useState('ua'); 
 
   const handleLanguageChange = (lang) => {
     setLanguage(lang); // Оновлюємо мову в стані батьківського компонента
@@ -17,12 +20,13 @@ const App = () => {
   return (
     <div className={style.app}>
       <Header onLanguageChange={handleLanguageChange}/>
-        <main className={style.content}>
-          <h1>{t('hello')}</h1>
-          <p>{t('description')}</p>
-          <p>Current Language: {language}</p>
-        </main>
-      <Footer />
+      <main>
+        <Hero currentLang={language} />
+        <InterestsAndProfiles currentLang={language}/>
+        <Memberships  currentLang={language}/>
+        <Projects currentLang={language}/>
+      </main>
+      <Footer currentLang={language}/>
     </div>
   );
 }

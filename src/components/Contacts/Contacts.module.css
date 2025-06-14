@@ -1,0 +1,17 @@
+.phone{
+
+}
+
+.email{
+
+}
+
+.emailItem{
+
+}
+
+.phoneIcon{
+    fill: var(--white-text);
+    width: 22px;
+    height: 22px;
+}
