@@ -24,7 +24,11 @@ const Hero = ({currentLang}) => {
                             <div className={style.info}>
                                 <h1 className={style.name}>{data.surname} {data.name} {data.patron} </h1>
                                 <p className={style.position}>{data.position}</p>
-                                <p className={style.org}>{data.organization}</p>
+                                <div>
+                                    <p className={style.org}>{data.organization.inst}</p>
+                                    <p className={style.org}>{data.organization.un}</p>
+                                    <p className={style.org}>{data.organization.min}</p>
+                                </div>
                             </div>
                             <div className={style.degree}>
                                 <p>{data.corMemb}</p>

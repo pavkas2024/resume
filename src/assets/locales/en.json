@@ -3,7 +3,11 @@
     "surname": "Kasyanov",
     "patron": "",
     "position": "Director",
-    "organization": "Educational and Scientific Complex 'Institute for Applied System Analysis' at National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'",
+    "organization": {
+       "inst": "Educational and Scientific Complex 'Institute for Applied System Analysis' ",
+       "un": "at the National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute' ",
+       "min": "of the National Academy of Sciences of Ukraine and Ministry of Education and Science of Ukraine"
+    },
     "shortOrg": "ESC IASA",
     "description": "dfrgrtbtbgbtgebtebtbe",
     "corMemb": "Corresponding Member of the National Academy Science of Ukraine",
@@ -39,8 +43,16 @@
             "yearStart": "2022",
             "yearEnd": "2024",
             "org": "Europe Commission HEI initiative, EuroSpaceHub",
-            "description": "",
+            "description": "https://eit-hei.eu/projects/eurospacehub/",
             "site": ""
+        },
+        {
+            "title": " 'GRAMMCell Docking-based Cell Modeling' ",
+            "yearStart": "2023",
+            "yearEnd": "2024",
+            "org": "University of Kansas Center for Research, Inc. (“KUCR”), USA",
+            "description": "",
+            "site": "https://grammcell.compbio.ku.edu/"
         }
     ],
     "sections": ["projects", "contact", "profiles", "scientific interests", "scientific positions and memberships"],

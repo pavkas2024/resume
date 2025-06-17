@@ -1,6 +1,168 @@
 .sectionStyle{
     margin: 0;
     padding: 0;
+    border-bottom: none; 
     
     background-color: var(--light-beige);
+    color: var(--txt);
 }
+
+.memberStyle {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    align-items: center;
+    gap: 32px;
+  }
+  
+  .title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--blue-main);
+    margin-bottom: 8px;
+    text-align: center;
+  }
+
+  .memberBlock{
+    width: 100%;
+  }
+  
+  .memberList {
+    list-style: none;
+    width: 100%;
+    max-width: 720px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .memberItem {
+    background: var(--white-text);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px 24px;
+    transition: box-shadow 0.3s var(--transition), transform 0.3s var(--transition);
+    cursor: default;
+  }
+  
+  .memberItem:hover {
+    box-shadow: 0 6px 20px rgba(0, 94, 158, 0.3);
+    transform: translateY(-4px);
+  }
+  
+  .itemWrap {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px 24px;
+    font-size: 1rem;
+    color: var(--black-txt);
+  }
+  
+  .itemWrap p {
+    margin: 0;
+    flex: 1 1 30%;
+    min-width: 120px;
+  }
+
+  .interestsBlock {
+    width: 100%;
+    background-color: var(--light-beige);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .interestsBlock   .title {
+    margin-bottom: 16px;
+    padding-bottom: 6px;
+  }
+  
+  .interestsBlock ul {
+    padding-left: 20px;
+    border-left: 6px solid var(--beige-hover);
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  }
+  
+  .interestsBlock ul li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+    color: var(--txt);
+    position: relative;
+  }
+  
+  .interestsBlock  li::before {
+    content: "➤";
+    color: var(--beige-hover);
+    font-size: 0.8rem;
+    margin-right: 8px;
+    display: inline-block;
+    width: 1em;
+  }
+  
+  
+  @media screen and (min-width: 320px) {
+   
+    .memberList {
+      max-width: 320px;
+    }
+    .itemWrap p {
+      flex: 1 1 100%;
+      min-width: auto;
+    }
+
+   
+  }
+  
+  @media screen and (min-width: 768px) {
+    .memberStyle{
+        padding: 32px;
+        flex-direction: row;
+        align-items: flex-start;
+    }
+
+    .memberList {
+      max-width: 720px;
+    }
+    .itemWrap p {
+      flex: 1 1 30%;
+    }
+
+    .interestsBlock ul li {
+      font-size: 1.05rem;
+      margin-bottom: 10px;
+    }
+
+    .memberBlock{
+      width: 60%;
+    }
+
+    .interestsBlock {
+      width: 40%;
+    }
+  }
+  
+  @media screen and (min-width: 1440px) {
+    .memberList {
+      max-width: 900px;
+    }
+
+    .memberStyle{
+        padding: 40px 24px;
+    }
+
+    .interestsBlock ul li {
+      font-size: 1.15rem;
+      margin-bottom: 12px;
+    }
+  }
+  
