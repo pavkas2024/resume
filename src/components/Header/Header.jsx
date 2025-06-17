@@ -16,7 +16,7 @@ const Header = ({ onLanguageChange }) => {
 
   return (
     <header className={style.headerStyle}>
-      <div className={style.logo}>MyWebsite</div>
+      <div className={style.logo}></div>
       <div className={style.languageSwitch}>
         <button className={style.languageButton} onClick={() => handleLanguageChange('en')}>
           EN

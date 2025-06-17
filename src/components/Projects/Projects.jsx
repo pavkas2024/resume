@@ -37,7 +37,6 @@ const Projects = ({currentLang}) => {
     }, [projects]);
 
     return (
-        <>
             <section className={style.sectionStyle}>
                 <ContainerWrap>
                     <h2>{projectSection}</h2>
@@ -70,7 +69,6 @@ const Projects = ({currentLang}) => {
                     </div>
                 </ContainerWrap>
             </section>
-        </>
     );
 };
 

@@ -19,19 +19,9 @@ const InterestsAndProfiles = ({currentLang}) => {
     const profiles = data.sections[2] || "";
 
     return (
-        <>
             <section className={style.sectionStyle}>
-                <div>
                     <ContainerWrap>
                         <div >
-                            <div>
-                                <h2>{sciInterests} </h2>
-                                <ul>
-                                    {interests.map((interest) => (
-                                        <li key={interest}>{interest}</li>
-                                    ))}
-                                </ul>
-                            </div>
                             <div>
                                 <h2>{profiles}</h2>
                                 <div>
@@ -45,11 +35,17 @@ const InterestsAndProfiles = ({currentLang}) => {
                                     <p>nauka.gov.ua</p>
                                 </div>
                             </div>
+                            <div>
+                                <h2>{sciInterests} </h2>
+                                <ul>
+                                    {interests.map((interest) => (
+                                        <li key={interest}>{interest}</li>
+                                    ))}
+                                </ul>
+                            </div>
                         </div>
                     </ContainerWrap>
-                </div>
             </section>
-        </>
     );
 };
 

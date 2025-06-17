@@ -18,9 +18,7 @@ const MemberShips = ({currentLang}) => {
     const memberFellow = data.sections[4] || "";
 
     return (
-        <>
             <section className={style.sectionStyle}>
-                <div>
                     <ContainerWrap>
                         <div>
                             <h2>{memberFellow}</h2>
@@ -37,9 +35,7 @@ const MemberShips = ({currentLang}) => {
                             </ul>
                         </div>
                     </ContainerWrap>
-                </div>
             </section>
-        </>
     );
 };
 
