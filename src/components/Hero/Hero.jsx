@@ -17,11 +17,11 @@ const Hero = ({currentLang}) => {
             <section className={style.sectionStyle}>  
                 <ContainerWrap>
                     <div className={style.heroStyle}>
-                        <div className={style.imageWrapper}>
-                            <img src={process.env.PUBLIC_URL + '/files/photo.png'} alt="Pavlo Kasyanov" />
-                        </div>
-                        <div className={style.title}>
-                            <div className={style.info}>
+                        <div className={style.info}>
+                            <div className={style.imageWrapper}>
+                                <img src={process.env.PUBLIC_URL + '/files/photo.png'} alt="Pavlo Kasyanov" />
+                            </div>
+                            <div className={style.infoShort}>
                                 <h1 className={style.name}>{data.surname} {data.name} {data.patron} </h1>
                                 <p className={style.position}>{data.position}</p>
                                 <div>
@@ -30,6 +30,9 @@ const Hero = ({currentLang}) => {
                                     <p className={style.org}>{data.organization.min}</p>
                                 </div>
                             </div>
+                        </div>
+                        
+                        <div className={style.additionalInf}>
                             <div className={style.degree}>
                                 <p>{data.corMemb}</p>
                                 <p>{data.degree}</p>

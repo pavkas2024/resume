@@ -50,6 +50,11 @@
     margin-right: auto;
 }
 
+.additionalInf{
+    display: flex;
+    flex-direction: column;
+}
+
 .name {
     font-size: 18px;
 }
@@ -91,7 +96,6 @@
 @media screen and (min-width: 768px) {
 
     .heroStyle{
-        flex-direction: row;
         align-items: flex-start;
         text-align: left;
         gap: 32px;
@@ -104,8 +108,18 @@
         font-size: 16px;
     }
 
+    .info{
+        flex-direction: row;
+    }
+
     .imageWrapper{
         max-width: 280px;
+    }
+
+    .additionalInf{
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
     }
 
     .name{
@@ -118,14 +132,20 @@
 
     .degree{
         text-align: center;
+        padding-right: 60px;
     }
 } 
 
 @media screen and (min-width: 1440px) {
 
+    .info{
+        gap: 80px;
+    }
+
     .heroStyle{
         gap: 40px;
         padding: 48px;
+        align-items: flex-start;
     }
 
     .title{
@@ -139,5 +159,9 @@
 
     .position{
         font-size: 24px;
+    }
+
+    .degree{
+        padding-right: 80px;
     }
 }
