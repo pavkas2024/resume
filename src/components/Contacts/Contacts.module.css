@@ -3,9 +3,13 @@
     flex-direction: column;
     gap: 24px;
     color: var(--light-beige);
-    font-family: 'Segoe UI', Tahoma, sans-serif;
   }
   
+
+.phoneBlock, .emailBlock {
+  font-size: 0.8rem;
+}
+
   /* Ряд з емейлами та телефоном */
   .row {
     display: flex;
@@ -13,23 +17,18 @@
     gap: 16px;
   }
   
-  /* На планшетах і десктопі — два блоки (емейл + телефон) в ряд */
-  @media screen and (min-width: 768px) {
-    .row {
-      flex-direction: row;
-      align-items: flex-start;
-      gap: 40px;
-    }
-  }
+
   
   /* Іконка по порядку (пошта/телефон) */
   .phoneIcon {
-    width: 24px;
-    height: 24px;
-    fill: var(--beige-hover);
+    width: 20px;
+    height: 20px;
+    fill: #fff7ec;
+    filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.4));
     flex-shrink: 0;
     margin-right: 12px;
     vertical-align: middle;
+    transition: fill 0.3s var(--transition), filter 0.3s var(--transition);
   }
   
   /* Блок емейлів */
@@ -48,9 +47,7 @@
     transition: color 0.3s var(--transition);
   }
   
-  .emailItem:hover {
-    color: var(--link-hover);
-  }
+ 
   
   /* Обгортка для емейл-блоку (іконка + список) */
   .emailBlock {
@@ -67,8 +64,11 @@
     transition: color 0.3s var(--transition);
   }
   
+  .emailItem:hover,
   .phone:hover {
-    color: var(--link-hover);
+    color: #a67845; /* теплий карамельно-медовий */
+    text-shadow: 0 1px 3px rgba(166, 120, 69, 0.3);
+    transform: translateY(-1px);
   }
   
   /* Обгортка для телефонного блоку */
@@ -79,15 +79,47 @@
   
   /* Адреса */
   .address {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     line-height: 1.4;
     color: var(--white-text);
   }
-  
-  /* Адаптивні коригування */
-  @media screen and (min-width: 768px) {
+
+
+  @media screen and (min-width: 320px) {
+
+    .phoneBlock, .emailBlock {
+      font-size: 1rem;
+    }
+
     .address {
       font-size: 1rem;
+    }
+
+  }
+
+
+  
+
+  /* Адаптивні коригування */
+  @media screen and (min-width: 768px) {
+
+
+    .phoneIcon {
+      width: 24px;
+      height: 24px;
+    }
+    .row {
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 40px;
+    }
+
+    .address {
+      font-size: 1.2rem;
+    }
+
+    .phoneBlock, .emailBlock {
+      font-size: 1.2rem;
     }
   }
   

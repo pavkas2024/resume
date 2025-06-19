@@ -1,0 +1,59 @@
+.btn {
+    position: fixed;
+    z-index: 110;
+    width: 52px;
+    height: 52px;
+  
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    cursor: pointer;
+    color: var(--white-text);
+    border-radius: 50%;
+    background-color: var(--blue-main);
+   
+    box-shadow: rgba(184, 224, 231, 0.35) 0px 5px 15px;
+    bottom: 30px;
+    right: 20px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .btn:hover{
+    background-color: var(--beige-focus);
+  }
+  
+  .icon {
+    width: 32px;
+    height: 21px;
+    fill: var(--white-text);
+  }
+  
+  @media screen and (min-width: 768px) {
+    .btn {
+      width: 64px;
+      height: 64px;
+      right: 40px;
+    }
+  
+    .icon {
+      width: 43px;
+      height: 27px;
+    }
+  }
+  
+  @media screen and (min-width: 1440px) {
+    .btn {
+      right: 40px;
+      bottom: 40px;
+    }
+  }
+  
+  
+  .btn_hide {
+    display: none;
+  }
+  
+  
+  
+  
+  

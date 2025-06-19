@@ -32,13 +32,13 @@
     transition: box-shadow 0.3s var(--transition);
   }
   
-  .profilesBlock h2 {
-    color: var(--blue-main);
-    font-size: 1.5rem;
-    margin-bottom: 16px;
-    border-bottom: 2px solid var(--accent-disable);
-    padding-bottom: 6px;
-  }
+.profileH2 {
+  color: var(--blue-main);
+  font-size: 1.2rem;
+  margin-bottom: 16px;
+  border-bottom: 2px solid var(--accent-disable);
+  padding-bottom: 6px;
+}
   
   .list {
     list-style: none;
@@ -57,6 +57,7 @@
     padding: 8px 12px;
     border-radius: 8px;
     transition: border-color 0.3s var(--transition), box-shadow 0.3s var(--transition);
+    font-size: 1rem;
   }
   
   .item a:hover {
@@ -67,8 +68,8 @@
   /* === Інтереси === */
   
 @media screen and (min-width: 320px) {
-    h2 {
-      font-size: 2.2rem;
+   .profileH2 {
+      font-size: 1.5rem;
       font-weight: 700;
     }
 }
@@ -90,8 +91,13 @@
       flex-wrap: wrap;
     }
 
+    .profileH2 {
+      font-size: 2rem;
+      font-weight: 700;
+    }
+
     .item a {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
       }
     
     
@@ -104,6 +110,10 @@
     .interstsStyle {
         gap: 60px;
         padding: 40px 24px;
+      }
+
+      .profileH2 {
+        font-size: 2.2rem;
       }
 
       .list{

@@ -13,3 +13,18 @@
 .openCVBtn:hover{
     background-color: #333;
 }
+
+@media screen and (min-width: 768px) {
+    .openCVBtn{
+        font-size: 1.2rem;
+    }
+ 
+  }
+
+
+@media screen and (min-width: 1440px) {
+    .openCVBtn{
+        font-size: 1.5rem;
+    }
+ 
+  }

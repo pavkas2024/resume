@@ -9,7 +9,7 @@
        "min": "of the National Academy of Sciences of Ukraine and Ministry of Education and Science of Ukraine"
     },
     "shortOrg": "ESC IASA",
-    "description": "dfrgrtbtbgbtgebtebtbe",
+    "description": "",
     "corMemb": "Corresponding Member of the National Academy Science of Ukraine",
     "degree": "Dr. Hub. in Physics and Mathematics",
     "acadTitle": "Professor",
@@ -55,7 +55,7 @@
             "site": "https://grammcell.compbio.ku.edu/"
         }
     ],
-    "sections": ["projects", "contact", "profiles", "scientific interests", "scientific positions and memberships"],
+    "sections": ["Management of internationally funded projects", "Contacts", "Profiles", "Scientific interests", "Scientific positions and memberships"],
     "memberships": [
         {
             "org": "Presidium of the National Academy of Sciences of Ukraine, Commission for Work with Scientific Youth of the National Academy of Sciences of Ukraine",
@@ -68,7 +68,7 @@
             "year": "since 2011"
         },
         {
-            "org": "INFORMS",
+            "org": "INFORMS, Applied Probability Society",
             "position": "Fellow",
             "year": "since 2022"
         },

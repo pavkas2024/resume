@@ -84,12 +84,12 @@ const Projects = ({currentLang}) => {
                                 {projects.map((project) => (
                                     <SwiperSlide key={project.title}>
                                         <div className={style.slideContent}>
-                                            <p><strong>{project.title}</strong></p>
-                                            <p>{project.yearStart} — {project.yearEnd}</p>
-                                            <p>{project.org}</p>
-                                            <p>{project.description}</p>
+                                            <p className={style.slideTitle}><strong>{project.title}</strong></p>
+                                            <p className={style.slideYear}>{project.yearStart} — {project.yearEnd}</p>
+                                            <p className={style.slideOrg}>{project.org}</p>
+                                            <p className={style.slideDescription}>{project.description}</p>
                                             <p>
-                                                <a href={project.site} target="_blank" rel="noopener noreferrer" className={style.site}>
+                                                <a href={project.site} target="_blank" rel="noopener noreferrer" className={style.site}   aria-label={`Project ${project.title} site`}>
                                                     {project.site}
                                                 </a>
                                             </p>

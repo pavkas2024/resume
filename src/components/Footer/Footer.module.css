@@ -11,7 +11,7 @@
   /* Обгортка всього блоку контактів */
   .contactsWrap {
     width: 100%;
-    max-width: 800px;
+   
   }
   
   /* Внутрішній row у Contacts */
@@ -25,6 +25,12 @@
   @media screen and (max-width: 767px) {
     .contactsWrap :global(.row) {
       grid-template-columns: 1fr;
+    }
+  }
+
+  @media  screen and (min-width: 320px) {
+    .contactsWrap{
+      padding: 10px;
     }
   }
   
@@ -45,7 +51,7 @@
   }
   
   .copy {
-    color: var(--light-beige);
+    color: var(--text-on-blue-muted);
     font-size: 12px;
     margin: 0;
     display: inline-flex;
@@ -59,6 +65,11 @@
   @media screen and (min-width: 768px) {
     .footer {
       padding: 32px 32px;
+    }
+
+    .contactsWrap{
+      padding: 40px;
+      
     }
  
   }

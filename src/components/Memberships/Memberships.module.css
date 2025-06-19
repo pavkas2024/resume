@@ -22,7 +22,7 @@
   }
   
   .title {
-    font-size: 2.2rem;
+    font-size: 1.2rem;
     font-weight: 700;
     color: var(--blue-main);
     margin-bottom: 8px;
@@ -42,35 +42,49 @@
     display: flex;
     flex-direction: column;
     gap: 16px;
+    font-size: 0.8rem;
   }
   
   .memberItem {
-    background: var(--white-text);
+
     border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    padding: 20px 24px;
-    transition: box-shadow 0.3s var(--transition), transform 0.3s var(--transition);
-    cursor: default;
+    box-shadow: 
+      0 4px 10px rgba(0, 0, 0, 0.1),         /* трохи глибша тінь */
+      0 6px 18px rgba(0, 94, 158, 0.12),     /* теплий кольоровий шлейф */
+      0 0 0 1px rgba(205, 189, 162, 0.15);   /* тонкий бежевий контур */
+    padding: 20px 8px;
+    transition: all 0.3s var(--transition);
+  cursor: default;
   }
   
   .memberItem:hover {
-    box-shadow: 0 6px 20px rgba(0, 94, 158, 0.3);
-    transform: translateY(-4px);
+    box-shadow: 0 10px 30px rgba(0, 94, 158, 0.4);
+    transform: translateY(-6px);
   }
   
   .itemWrap {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 12px 24px;
-    font-size: 1rem;
     color: var(--black-txt);
   }
-  
+
   .itemWrap p {
     margin: 0;
-    flex: 1 1 30%;
-    min-width: 120px;
+    padding: 0;
+  }
+
+  
+  .itemWrap p:not(:last-child) {
+    padding-right: 4px;
+  }
+
+  .itemWrap p:first-child {
+    flex: 0 0 40%;
+  }
+  
+  .itemWrap p:nth-child(2),
+  .itemWrap p:nth-child(3) {
+    flex: 0 0 30%;
   }
 
   .interestsBlock {
@@ -103,7 +117,7 @@
   .interestsBlock  li::before {
     content: "➤";
     color: var(--beige-hover);
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-right: 8px;
     display: inline-block;
     width: 1em;
@@ -114,10 +128,20 @@
    
     .memberList {
       max-width: 320px;
+      font-size: 0.9rem;
     }
-    .itemWrap p {
-      flex: 1 1 100%;
-      min-width: auto;
+
+    .memberItem{
+      padding: 20px 16px;
+    }
+
+    .itemWrap p:not(:last-child) {
+      padding-right: 8px;
+    }
+   
+
+    .title{
+      font-size: 1.5rem;
     }
 
    
@@ -132,13 +156,33 @@
 
     .memberList {
       max-width: 720px;
+      font-size: 1rem;
     }
-    .itemWrap p {
-      flex: 1 1 30%;
+
+    .memberItem{
+      padding: 20px 20px;
+    }
+
+    .itemWrap p:not(:last-child) {
+      padding-right: 10px;
+    }
+
+    .itemWrap p:first-child {
+      flex: 0 0 60%;
+    }
+    
+    .itemWrap p:nth-child(2),
+    .itemWrap p:nth-child(3) {
+      flex: 0 0 20%;
+    }
+
+
+    .title{
+      font-size: 2rem;
     }
 
     .interestsBlock ul li {
-      font-size: 1.05rem;
+      font-size: 1.2rem;
       margin-bottom: 10px;
     }
 
@@ -154,14 +198,19 @@
   @media screen and (min-width: 1440px) {
     .memberList {
       max-width: 900px;
+      font-size: 1.2rem;
     }
 
     .memberStyle{
         padding: 40px 24px;
     }
 
+    .title{
+      font-size: 2.2rem;
+    }
+
     .interestsBlock ul li {
-      font-size: 1.15rem;
+      font-size: 1.2rem;
       margin-bottom: 12px;
     }
   }

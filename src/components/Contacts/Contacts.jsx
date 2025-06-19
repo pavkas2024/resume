@@ -21,16 +21,16 @@ const Contacts = ({currentLang}) => {
                         </svg>
                         <ul className={style.email}>
                             <li>
-                                <a className={style.emailItem} aria-label="write to me" href="mailto:p.o.kasyanov@gmail.com"> p.o.kasyanov@gmail.com </a>
+                                <a className={style.emailItem} aria-label="write to my gmail.com" href="mailto:p.o.kasyanov@gmail.com"> p.o.kasyanov@gmail.com </a>
                             </li>
                             <li>
-                                <a className={style.emailItem} aria-label="write to me" href="mailto:kasyanov.pavlo@lll.kpi.ua"> kasyanov.pavlo@lll.kpi.ua</a>
+                                <a className={style.emailItem} aria-label="write to my lll.kpi.ua" href="mailto:kasyanov.pavlo@lll.kpi.ua"> kasyanov.pavlo@lll.kpi.ua</a>
                             </li>
                             <li>
-                                <a className={style.emailItem} aria-label="write to me" href="mailto:pavlo.kasyanov@nas.gov.ua">pavlo.kasyanov@nas.gov.ua</a>
+                                <a className={style.emailItem} aria-label="write to my nas.gov.ua" href="mailto:pavlo.kasyanov@nas.gov.ua">pavlo.kasyanov@nas.gov.ua</a>
                             </li>
                             <li>
-                                <a className={style.emailItem} aria-label="write to me" href="mailto:pavlo.kasyanov@stonybrook.edu">pavlo.kasyanov@stonybrook.edu</a>
+                                <a className={style.emailItem} aria-label="write to my stonybrook.edu" href="mailto:pavlo.kasyanov@stonybrook.edu">pavlo.kasyanov@stonybrook.edu</a>
                             </li>
                         </ul>
                     </div>

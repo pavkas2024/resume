@@ -1,17 +1,23 @@
 :root {
     --blue-hover: #162C6B;
     --blue-focus: #2F55C2;
-    --beige-hover:#D4A94E;
+    --beige-hover: #d5c4a1;
     --beige-focus: #CDBDA2;
     --link-hover: #1F3A93;
     --white-text: #f8fafd;
     --black-txt:#001327;
     --light-beige: #f9f9f0;
     --gray-txt: #5E5E5E;
-    --beige: #f4f0e5;
+    --beige: #eee8da;
     --txt: #2f5468;
     --blue-main: #005e9e;
     --accent-disable: #D7C7A5;
+    --text-main-light: #e0ecf1;   /* світло-блакитний */
+    --text-secondary: #d0d0d0;    /* для менш важливого */
+    --text-accent: #fff;   
+    --text-contacts: #f9f9f0;
+    --text-on-blue-main: #eae6dc;  /* дуже світлий бежевий */
+--text-on-blue-muted: #e0ecf1; /* для вторинного тексту */
     --transparent-hover:rgba(255, 255, 255, 0.24);
     --transparent-click: #979797;
     --transition: cubic-bezier(0.4, 0, 0.2, 1);

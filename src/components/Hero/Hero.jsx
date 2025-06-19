@@ -19,12 +19,20 @@ const Hero = ({currentLang}) => {
                     <div className={style.heroStyle}>
                         <div className={style.info}>
                             <div className={style.imageWrapper}>
-                                <img src={process.env.PUBLIC_URL + '/files/photo.png'} alt="Pavlo Kasyanov" />
+                                <img 
+                                    src={process.env.PUBLIC_URL + '/files/photo.png'} 
+                                    alt="Pavlo Kasyanov" 
+                                    width="280"
+                                    height="auto"
+                                    loading="eager"
+                                    decoding="async"
+                                    fetchpriority="high"
+                                />
                             </div>
                             <div className={style.infoShort}>
                                 <h1 className={style.name}>{data.surname} {data.name} {data.patron} </h1>
                                 <p className={style.position}>{data.position}</p>
-                                <div>
+                                <div >
                                     <p className={style.org}>{data.organization.inst}</p>
                                     <p className={style.org}>{data.organization.un}</p>
                                     <p className={style.org}>{data.organization.min}</p>

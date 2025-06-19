@@ -11,6 +11,7 @@ const Header = ({ onLanguageChange }) => {
 
   const handleLanguageChange = (lang) => {
     i18n.changeLanguage(lang);
+    localStorage.setItem('appLanguage', lang); 
     onLanguageChange(lang);
   };
 
