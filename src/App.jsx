@@ -3,15 +3,15 @@ import { useTranslation } from 'react-i18next';
 
 import Header from './components/Header';
 import Hero from './components/Hero/Hero';
-import InterestsAndProfiles from './components/InterestsAndProfiles/InterestsAndProfiles';
-import Memberships from './components/Memberships/Memberships';
-// import Projects from './components/Projects/Projects';
-import Footer from './components/Footer';
-import ButtonUp from './components/ButtonUp/ButtonUp';
 
 import style from "./App.module.css";
 
+// Lazy-loaded components
+const InterestsAndProfiles = lazy(() => import('./components/InterestsAndProfiles/InterestsAndProfiles'));
+const Memberships = lazy(() => import('./components/Memberships/Memberships'));
 const Projects = lazy(() => import('./components/Projects/Projects'));
+const Footer = lazy(() => import('./components/Footer'));
+const ButtonUp = lazy(() => import('./components/ButtonUp/ButtonUp'));
 
 
 const App = () => {
@@ -32,17 +32,17 @@ const App = () => {
 
   return (
     <div className={style.app}>
-      <Header onLanguageChange={handleLanguageChange}/>
+      <Header onLanguageChange={handleLanguageChange} />
       <main>
         <Hero currentLang={language} />
-        <InterestsAndProfiles currentLang={language}/>
-        <Memberships  currentLang={language}/>
         <Suspense fallback={<div>Loading...</div>}>
-          <Projects currentLang={language}/>
+          <InterestsAndProfiles currentLang={language} />
+          <Memberships currentLang={language} />
+          <Projects currentLang={language} />
+          <Footer currentLang={language} />
+          <ButtonUp />
         </Suspense>
       </main>
-      <Footer currentLang={language}/>
-      <ButtonUp />
     </div>
   );
 }

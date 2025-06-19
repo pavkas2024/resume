@@ -20,10 +20,10 @@ const Hero = ({currentLang}) => {
                         <div className={style.info}>
                             <div className={style.imageWrapper}>
                                 <img 
-                                    src={process.env.PUBLIC_URL + '/files/photo.png'} 
+                                    src={process.env.PUBLIC_URL + '/files/photo.webp'} 
                                     alt="Pavlo Kasyanov" 
                                     width="280"
-                                    height="auto"
+                                    height="360"
                                     loading="eager"
                                     decoding="async"
                                     fetchpriority="high"
