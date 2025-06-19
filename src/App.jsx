@@ -27,7 +27,7 @@ const App = () => {
   }, [language, i18n]);
 
   const handleLanguageChange = (lang) => {
-    setLanguage(lang); // оновлення стану — це запустить useEffect
+    setLanguage(lang);
   };
 
   return (
@@ -36,14 +36,16 @@ const App = () => {
       <main>
         <Hero currentLang={language} />
         <Suspense fallback={<div>Loading...</div>}>
+
           <InterestsAndProfiles currentLang={language} />
           <Memberships currentLang={language} />
           <Projects currentLang={language} />
           <Footer currentLang={language} />
           <ButtonUp />
+          
         </Suspense>
       </main>
-    </div>
+    </div> 
   );
 }
 

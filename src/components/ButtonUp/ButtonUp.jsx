@@ -9,7 +9,7 @@ const ButtonUp = () => {
 
     useEffect(() => {
         const handleScroll = () => {
-          setBackToTop(window.scrollY > 300);
+          setBackToTop(window.scrollY > 295);
         };
       
         window.addEventListener('scroll', handleScroll);
