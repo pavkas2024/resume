@@ -105,7 +105,7 @@
 @media screen and (min-width: 320px) {
 
 .imageWrapper{
-    max-width: 220px;
+    max-width: 240px;
 }
 
 .name{
@@ -220,7 +220,7 @@
     }
   
     .imageWrapper {
-      max-width: 160px;
+      max-width: 200px;
     }
   
     .name {

@@ -23,7 +23,7 @@ const Hero = ({currentLang}) => {
                                     src={process.env.PUBLIC_URL + '/files/photo.webp'} 
                                     alt="Pavlo Kasyanov" 
                                     width="280"
-                                    height="360"
+                                    height="280"
                                     loading="eager"
                                     decoding="async"
                                     fetchpriority="high"
