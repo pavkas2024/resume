@@ -43,6 +43,17 @@ const InterestsAndProfiles = ({currentLang}) => {
                                         </a>
                                     </li>
                                     <li className={style.item}>
+                                        <a href="https://www.linkedin.com/in/pavlokasyanov/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
+                                        LinkedIn
+                                        </a>
+                                    </li>
+                                    <li className={style.item}>
+                                        <a href="https://www.facebook.com/pkasyanov" target="_blank" rel="noopener noreferrer" aria-label="Facebook Profile">
+                                        Facebook
+                                        </a>
+                                    </li>
+                                   
+                                    <li className={style.item}>
                                         <a href="https://www.youtube.com/@Darkmist82" target="_blank" rel="noopener noreferrer" aria-label="You Tube Chanel">
                                         You Tube
                                         </a>

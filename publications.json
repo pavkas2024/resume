@@ -1,0 +1,382 @@
+[
+  {
+    "id": "1",
+    "description": "M.Z. Zgurovsky and P.O. Kasyanov, Qualitative and Quantitative Analysis of Nonlinear Systems. Theory and Applications, Springer Series: Studies in Systems, Decision and Control, Springer, Berlin, Cham, 2018, XXXIII, 240 p., ISBN 978-3-319-59839-0. Scimago Journal & Country Rank Q4",
+    "cite": "https://doi.org/10.1007/978-3-319-59840-6"
+  },
+  {
+    "id": "2",
+    "description": "M.Z. Zgurovsky, P.O. Kasyanov, O.V. Kapustyan, J. Valero, and N.V. Zadoianchuk, Evolution Inclusions and Variational Inequalities for Earth Data Processing III. Long-Time Behavior of Evolution Inclusions Solutions in Earth Data Analysis, Advances in Mechanics and Mathematics, vol. 27, Springer, Berlin, 2012, XLI, 330 p., ISBN 978-3-642-28511-0.",
+    "cite": "https://doi.org/10.1007/978-3-642-28512-7"
+  },
+  {
+    "id": "3",
+    "description": "M.Z. Zgurovsky, V.S. Mel'nik, and P.O. Kasyanov, Evolution Inclusions and Variational Inequalities for Earth Data Processing. II. Differential-Operator Inclusions and Evolution Variational Inequalities for Earth Data Processing, Advances in Mechanics and Mathematics, vol. 25, Springer, Berlin, 2011, XXV, 274 p., ISBN 978-3-642-13877-5.",
+    "cite": "https://doi.org/10.1007/978-3-642-13878-2"
+  },
+  {
+    "id": "4",
+    "description": "M.Z. Zgurovsky, V.S. Mel'nik, and P.O. Kasyanov, Evolution Inclusions and Variational Inequalities for Earth Data Processing. I. Operator Inclusions and Variational Inequalities for Earth Data Processing, Advances in Mechanics and Mathematics, vol. 24, Springer, Berlin, 2011, XXX, 247 p., ISBN 978-3-642-13836-2.",
+    "cite": "https://doi.org/10.1007/978-3-642-13837-9"
+  },
+  {
+    "id": "5",
+    "description": "A. Singh, A.M. Tytarenko, V.K. Ambati, M.M. Copeland, P.J. Kundrotas, P.O. Kasyanov, E.A. Feinberg, and I.A. Vakser, GRAMMCell: Docking-based Cell Modeling Resource, J. Mol. Biol., (2025), 169085. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.1016/j.jmb.2025.169085"
+  },
+  {
+    "id": "6",
+    "description": "A.M. Tytarenko, A. Singh, V.K. Ambati, M.M. Copeland, P.J. Kundrotas, R. Halfmann, P.O. Kasyanov, E.A. Feinberg, and I.A. Vakser, Highly Optimized Simulation of Atomic Resolution Cell-Like Protein Environment, J. Phys. Chem. B 129 (2025), no. 12, 3183–3190. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.1021/acs.jpcb.4c07769"
+  },
+  {
+    "id": "7",
+    "description": "E. A. Feinberg, P.O. Kasyanov, and D. N. Kraemer, Continuity of parametric optima for possibly discontinuous functions and noncompact decision sets, submitted to Math. Oper. Res.",
+    "cite": "https://doi.org/10.48550/arXiv.2109.06299"
+  },
+  {
+    "id": "8",
+    "description": "E.A. Feinberg, S. Ishizawa, P.O. Kasyanov, and D.N. Kraemer, Continuity of filters for discrete-time control problems defined by explicit equations, SIAM J. Control Optim. 63 (2025), no. 3. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.1137/24M170790"
+  },
+  {
+    "id": "9",
+    "description": "E.A. Feinberg, S. Ishizawa, P.O. Kasyanov, and D.N. Kraemer, Sufficient conditions for solving statistical filtering problems by dynamic programming, Proc. IEEE Conf. Decision Control 2024 (2024), 4052–4057.",
+    "cite": "https://doi.org/10.1109/CDC56724.2024.10885861"
+  },
+  {
+    "id": "10",
+    "description": "E. Feinberg, P. Kasyanov, and M. Zgurovsky, Solutions for zero-sum two-player games with noncompact decision sets, Naval Res. Logist. 70 (2023), no. 5, 493–506. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.1002/nav.22111"
+  },
+  {
+    "id": "11",
+    "description": "E. Feinberg and P. Kasyanov, Equivalent conditions for weak continuity of nonlinear filters, Systems Control Lett. 173 (2023), 105458. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.1016/j.sysconle.2023.105458"
+  },
+  {
+    "id": "12",
+    "description": "E.A. Feinberg, P.O. Kasyanov, and J.O. Royset, Epi-convergence of expectation functions under varying measures and integrands, J. Convex Anal. 30 (2023), no. 3, 917–936.",
+    "cite": "https://www.heldermann.de/JCA/JCA30/JCA303/jca30043.htm"
+  },
+  {
+    "id": "13",
+    "description": "E. Feinberg, P. Kasyanov, and M. Zgurovsky, Semi-uniform Feller stochastic kernels, J. Theoret. Probab. 36 (2023), 2262–2283. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.1007/s10959-022-01230-9"
+  },
+  {
+    "id": "14",
+    "description": "M.Z. Zgurovsky, P.O. Kasyanov, and L.B. Levenchuk, Formalization of methods for the development of autonomous artificial intelligence systems, Cybernet. Syst. Anal. 59 (2023), 763–771. Scimago Journal & Country Rank Q3",
+    "cite": "https://doi.org/10.1007/s10559-023-00612-z"
+  },
+  {
+    "id": "15",
+    "description": "E. Feinberg, P. Kasyanov, and M. Zgurovsky, Markov decision processes with incomplete information and semi-uniform transition probabilities, SIAM J. Control Optim. 60 (2022), no. 4.",
+    "cite": "https://doi.org/10.1137/21M1442152"
+  },
+  {
+    "id": "16",
+    "description": "E.A. Feinberg, P.O. Kasyanov, and M.Z. Zgurovsky, Continuity of equilibria for two-person zero-sum games with noncompact action sets and unbounded payoffs, Ann. Oper. Res. 317 (2022), no. 2, 537–568.",
+    "cite": "https://doi.org/10.1007/s10479-017-2677-y"
+  },
+  {
+    "id": "17",
+    "description": "O.V. Kapustyan, P.O. Kasyanov, and R.M. Taranets, Strong solutions and trajectory attractors to the thin-film equation with absorption, J. Math. Anal. Appl. 493 (2021), no. 2, 124562. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.1016/j.jmaa.2020.124562"
+  },
+  {
+    "id": "18",
+    "description": "E. Feinberg and P. Kasyanov, MDPs with setwise continuous transition probabilities, Oper. Res. Lett. 49 (2021), no. 5.",
+    "cite": "https://doi.org/10.1016/j.orl.2021.07.011"
+  },
+  {
+    "id": "19",
+    "description": "O.V. Kapustyan, P.O. Kasyanov, and J. Valero, Chain recurrence and structure of ω-limit sets of multivalued semiflows, Commun. Pure Appl. Anal. 19 (2020), no. 4, 2197–2217. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.3934/cpaa.2020096"
+  },
+  {
+    "id": "20",
+    "description": "E.A. Feinberg, P.O. Kasyanov, and A.Y. Liang, Fatou’s lemma in its classical form and Lebesgue’s convergence theorems for varying measures with applications to Markov decision processes, Theory Probab. Appl. 65 (2020), no. 2, 270–291. Scimago Journal & Country Rank Q3",
+    "cite": "https://doi.org/10.1137/S0040585X97T989945"
+  },
+  {
+    "id": "21",
+    "description": "E.A. Feinberg, P.O. Kasyanov, and Y. Liang, Fatou’s lemma for weakly converging measures under the uniform integrability condition, Theory Probab. Appl. 64 (2020), no. 4, 615–630. Scimago Journal & Country Rank Q3",
+    "cite": "https://doi.org/10.1137/S0040585X97T989738"
+  },
+  {
+    "id": "22",
+    "description": "M.Z. Zgurovsky, P.O. Kasyanov, N.V. Gorban, and L.S. Paliichuk, Qualitative and quantitative analysis of weak solutions of energy‑balance climate models, Cybern. Syst. Anal. 55 (2019), no. 4, 552–560. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.1007/s10559-019-00164-1"
+  },
+  {
+    "id": "23",
+    "description": "O.V. Kapustyan, P.O. Kasyanov, J. Valero, and M.Z. Zgurovsky, Attractors of multivalued semi‑flows generated by solutions of optimal control problems, Discrete Contin. Dyn. Syst. Ser. B 24 (2019), no. 3, 1229–1242. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.3934/dcdsb.2019013"
+  },
+  {
+    "id": "24",
+    "description": "T.C. Garrido, O.V. Kapustyan, P.O. Kasyanov, J. Valero, and M.Z. Zgurovsky, Preface to the special issue “Dynamics and control in distributed systems: Dedicated to the memory of Valery S. Melnik (1952–2007)”, Discrete Contin. Dyn. Syst. Ser. B 24 (2019), no. 3, I–V. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.3934/dcdsb.20193i"
+  },
+  {
+    "id": "25",
+    "description": "E.A. Feinberg, P.O. Kasyanov, and M.Z. Zgurovsky, An example showing that A-lower semi-continuity is essential for minimax continuity theorems, Oper. Res. Lett. 46 (2018), no. 4, 385–388. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.1016/j.orl.2018.04.008"
+  },
+  {
+    "id": "26",
+    "description": "O.V. Kapustyan, P.O. Kasyanov, J. Valero, and M.Z. Zgurovsky, Strong attractors for vanishing viscosity approximations of non-Newtonian suspension flows, Discrete Contin. Dyn. Syst. Ser. B 23 (2018), no. 3, 1155–1176. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.3934/dcdsb.2018146"
+  },
+  {
+    "id": "27",
+    "description": "N.V. Gorban, O.V. Kapustyan, P.O. Kasyanov, O.V. Khomenko, L.S. Paliichuk, J. Valero, and M.Z. Zgurovsky, Uniform attractors for vanishing viscosity approximations of non-autonomous complex flows, J. Optim. Differ. Equ. Appl. 26 (2018), no. 2, 1–12.",
+    "cite": "http://dx.doi.org/10.15421/141807"
+  },
+  {
+    "id": "28",
+    "description": "M. Zgurovsky, M. Gluzman, N. Gorban, L. Paliichuk, and O. Khomenko, Uniform global attractors for non-autonomous dissipative dynamical systems, Discrete Contin. Dyn. Syst. Ser. B 22 (2017), no. 5, 2053–2065. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.3934/dcdsb.2017120"
+  },
+  {
+    "id": "29",
+    "description": "O. V. Kapustyan, P. O. Kasyanov, and J. Valero, Regularity of global attractors for reaction-diffusion systems with no more than quadratic growth, Discrete Contin. Dyn. Syst. Ser. B 22 (2017), no. 5, 1899–1908. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.3934/dcdsb.2017113"
+  },
+  {
+    "id": "30",
+    "description": "J. Valero, A. Giménez, O.V. Kapustyan, P.O. Kasyanov, and J.M. Amigó, Convergence of equilibria for numerical approximations of a suspension model, Comput. Math. Appl. 72 (2016), no. 4, 856–878. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.1016/j.camwa.2016.05.034"
+  },
+  {
+    "id": "31",
+    "description": "E.A. Feinberg, P.O. Kasyanov, and M.Z. Zgurovsky, Partially observable total-cost Markov decision processes with weakly continuous transition probabilities, Math. Oper. Res. 41 (2016), no. 2, 656–681. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.1287/moor.2015.0746"
+  },
+  {
+    "id": "32",
+    "description": "E.A. Feinberg, P.O. Kasyanov, and M.Z. Zgurovsky, Uniform Fatou's lemma, J. Math. Anal. Appl. 444 (2016), no. 1, 550–567. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.1016/j.jmaa.2016.06.044"
+  },
+  {
+    "id": "33",
+    "description": "M.O. Gluzman, N.V. Gorban, and P.O. Kasyanov, Lyapunov type functions for classes of autonomous parabolic feedback control problems and applications, Appl. Math. Lett. 39 (2015), 19–21. Scimago Journal & Country Rank Q1",
+    "cite": "https://doi.org/10.1016/j.aml.2014.08.006"
+  },
+  {
+    "id": "34",
+    "description": "O.V. Kapustyan, J. Valero, P.O. Kasyanov, A. Giménez, and J.M. Amigó, Convergence of numerical approximations for a non-Newtonian model of suspensions, Int. J. Bifurcation Chaos 25 (2015), no. 14, 1540022. Scimago Journal & Country Rank Q2",
+    "cite": "https://doi.org/10.1142/S021812741540022"
+},
+{
+    "id": "35",
+    "description": "M.O. Gluzman, N.V. Gorban, and P.O. Kasyanov, The existence and attractivity of weak solutions for the feedback-controlled Burgers-Huxley system, J. Optim. Differ. Equ. Appl. 23 (2015), no. 1, 47–58.",
+    "cite": "http://dx.doi.org/10.15421/141504"
+  },
+  {
+    "id": "36",
+    "description": "M.Z. Zgurovsky, P.O. Kasyanov, M.O. Gluzman, and N.V. Gorban, Global solvability and dissipativity for a class of feedback control systems, Nonlinear Oscill. 17 (2014), no. 3, 368–385.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/2014-17-no-3/"
+  },
+  {
+    "id": "37",
+    "description": "P.O. Kasyanov, Multivalued dynamical systems and optimal control problems, Nonlinear Oscill. 15 (2012), no. 1, 104–106.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/2012-15-no-1/"
+  },
+  {
+    "id": "38",
+    "description": "M.Z. Zgurovsky, V.S. Mel’nik, and P.O. Kasyanov, On the application of multivalued semiflows to the investigation of problems in optimization theory, J. Math. Sci. 163 (2010), no. 5, 611–626.",
+    "cite": "https://doi.org/10.1007/s10958-009-9691-z"
+  },
+  {
+    "id": "39",
+    "description": "M.Z. Zgurovsky, V.S. Mel’nik, and P.O. Kasyanov, On the structure of the global attractor for a class of nonautonomous evolution inclusions with multivalued right-hand sides, J. Math. Sci. 155 (2008), no. 6, 837–860.",
+    "cite": "https://doi.org/10.1007/s10958-008-9034-z"
+  },
+  {
+    "id": "40",
+    "description": "M.Z. Zgurovsky, V.S. Mel’nik, and P.O. Kasyanov, Mathematical modeling and analysis of complex systems: Development of methods for support of decision-making in a fuzzy environment, J. Math. Sci. 150 (2008), no. 4, 2340–2376.",
+    "cite": "https://doi.org/10.1007/s10958-008-9008-1"
+  },
+  {
+    "id": "41",
+    "description": "V.S. Mel’nik, P.O. Kasyanov, and J. Valero, Attractors of multivalued semiflows generated by solutions of inclusions with memory, Commun. Pure Appl. Anal. 6 (2007), no. 2, 401–412.",
+    "cite": "https://doi.org/10.3934/cpaa.2007.6.401"
+  },
+  {
+    "id": "42",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, Multivalued semiprocesses and their attractors, Nonlinear Oscill. 8 (2005), no. 3, 404–418.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/2005-08-no-3/"
+  },
+  {
+    "id": "43",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, Evolution equations and inclusions with a small parameter and their applications to optimal control problems, Nonlinear Oscill. 7 (2004), no. 1, 82–94.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/2004-07-no-1/"
+  },
+  {
+    "id": "44",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, Evolution equations and inclusions with delay, J. Math. Sci. 114 (2003), no. 6, 1722–1809.",
+    "cite": "https://doi.org/10.1023/A:1024103613197"
+  },
+  {
+    "id": "45",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, Approximate solutions of the Cauchy problem for evolution inclusions with delay, J. Math. Sci. 111 (2002), no. 6, 3653–3683.",
+    "cite": "https://doi.org/10.1023/A:1015672907583"
+  },
+  {
+    "id": "46",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, On the structure of attractors of multivalued dynamical systems, J. Math. Sci. 104 (2001), no. 6, 1362–1383.",
+    "cite": "https://doi.org/10.1023/A:1016699905017"
+  },
+  {
+    "id": "47",
+    "description": "P.O. Kasyanov, Evolution inclusions and their applications to problems of the optimal control theory, Nonlinear Oscill. 3 (2000), no. 2, 252–269.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/2000-03-no-2/"
+  },
+  {
+    "id": "48",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, Trajectory attractors for multivalued dynamical systems, Ukrainian Math. J. 50 (1998), no. 4, 606–613.",
+    "cite": "https://doi.org/10.1007/BF02509933"
+  },
+  {
+    "id": "49",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, Trajectory attractors and their application to optimal control problems, Nonlinear Oscill. 1 (1998), no. 3, 340–354.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/1998-01-no-3/"
+  },
+  {
+    "id": "50",
+    "description": "P.O. Kasyanov, Weak solutions for evolution inclusions and their attractors, Nonlinear Oscill. 1 (1998), no. 1, 57–71.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/1998-01-no-1/"
+  },
+  {
+    "id": "51",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, On attractors of multivalued dynamical systems and their approximations, Nonlinear Oscill. 1 (1998), no. 2, 184–198.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/1998-01-no-2/"
+  },
+  {
+    "id": "52",
+    "description": "V.S. Mel’nik and P.O. Kasyanov, Multivalued dynamical systems and their attractors, Ukrainian Math. J. 47 (1995), no. 6, 761–767.",
+    "cite": "https://doi.org/10.1007/BF01057475"
+  },
+  {
+    "id": "53",
+    "description": "P.O. Kasyanov, Attractors for inclusions and their applications to optimization problems, Nonlinear Oscill. 1 (1995), no. 1, 59–71.",
+    "cite": "https://www.journal-nonlinearoscillations.org.ua/1995-01-no-1/"
+  },
+  {
+    "id": "54",
+    "description": "P.O. Kasyanov, Trajectory attractors of evolution inclusions and optimal control problems, Ukrainian Math. J. 46 (1994), no. 12, 1666–1671.",
+    "cite": "https://doi.org/10.1007/BF01056570"
+  },
+  {
+    "id": "55",
+    "description": "P.O. Kasyanov, On the existence of trajectory attractors of inclusions with multivalued right-hand sides, Ukrainian Math. J. 45 (1993), no. 7, 970–975.",
+    "cite": "https://doi.org/10.1007/BF01056707"
+  },
+  {
+    "id": "56",
+    "description": "P.O. Kasyanov, On trajectory attractors of evolution inclusions with a small parameter, Ukrainian Math. J. 45 (1993), no. 6, 864–869.",
+    "cite": "https://doi.org/10.1007/BF01056725"
+  },
+  {
+    "id": "57",
+    "description": "P.O. Kasyanov, Weak solutions of inclusions and their attractors, Ukrainian Math. J. 45 (1993), no. 4, 548–552.",
+    "cite": "https://doi.org/10.1007/BF01056461"
+  },
+  {
+    "id": "58",
+    "description": "P.O. Kasyanov, Attractors of inclusions and optimal control problems, Ukrainian Math. J. 44 (1992), no. 12, 1662–1666.",
+    "cite": "https://doi.org/10.1007/BF01056930"
+  },
+  {
+    "id": "59",
+    "description": "P.O. Kasyanov, On the structure of attractors of evolution inclusions, Ukrainian Math. J. 44 (1992), no. 5, 692–695.",
+    "cite": "https://doi.org/10.1007/BF01056849"
+  },
+  {
+    "id": "60",
+    "description": "P.O. Kasyanov, On the solvability of one class of optimal control problems for distributed systems with inclusions, Ukrainian Math. J. 44 (1992), no. 3, 352–357.",
+    "cite": "https://doi.org/10.1007/BF01056806"
+  },
+{
+    "id": "61",
+    "description": "P. Kasyanov, V. Melnik, and J. Valero, On the method of approximation for evolutionary inclusions of pseudomonotone type, Bulletin of the Australian Mathematical Society 77 (2008), no. 1, 115–143",
+    "cite": "https://doi.org/10.1017/S0004972708000130"
+  },
+  {
+    "id": "62",
+    "description": "V.O. Kapustyan, P.O. Kas'yanov, and O.P. Kohut, On the solvability of one class of parameterized operator inclusions, Ukrainian Mathematical Journal 60 (2008), no. 12, 1901–1914",
+    "cite": "https://doi.org/10.1007/s11253-009-0179-z"
+  },
+  {
+    "id": "63",
+    "description": "P.O. Kas'yanov and V.S. Mel'nyk, Evolution inequalities with noncoercive wλ0-pseudomonotone Volterra-type mappings, Ukrainian Mathematical Journal 60 (2008), no. 11, 1752–1777",
+    "cite": "https://doi.org/10.1007/s11253-009-0167-3"
+  },
+  {
+    "id": "64",
+    "description": "S. Toscano, P.O. Kasyanov, N.V. Zadoyanchuk, and V.S. Melnik, Periodic solutions of evolutionary equations in the class of nonreflexive Banach spaces, Journal of Automation and Information Sciences 40 (2008), no. 9, 1–19",
+    "cite": "https://doi.org/10.1615/JAutomatInfScien.v40.i9.10"
+  },
+  {
+    "id": "65",
+    "description": "M.O. Perestyuk, P.O. Kasyanov, and N.V. Zadoyanchuk, On Faedo-Galerkin method for evolution inclusions with wλ0-pseudomonotone maps, Memoirs on Differential Equations and Mathematical Physics 44 (2008), 105–132",
+    "cite": "https://www.kurims.kyoto-u.ac.jp/EMIS/journals/MDEMP/vol44/vol44-7.pdf"
+  },
+  {
+    "id": "66",
+    "description": "P. Kasyanov, V. Mel'nik, and A. M. Piccirillo, On some approximations and main topological descriptions for special classes of Banach spaces with integrable derivatives, Methods of Functional Analysis and Topology 14 (2008), no. 3, 255–270",
+    "cite": "http://mfat.imath.kiev.ua/article/2008/03/kas_mel_pic.pdf"
+  },
+  {
+    "id": "67",
+    "description": "P.O. Kasyanov, V.S. Mel'nik, and A.M. Piccirillo, Local subdifferentials and multivariational inequalities in Banach and Fréchet spaces, Opuscula Mathematica 3 (2008), 295–311",
+    "cite": "https://journals.bg.agh.edu.pl/OPUSCULA/28-3/28-3-06.pdf"
+  },
+  {
+    "id": "68",
+    "description": "P.O. Kas'yanov, V.S. Mel'nik, and L. Toscano, Multivalued penalty method for evolution variational inequalities with wλ0-pseudomonotone multivalued maps, Nonlinear Oscillations 10 (2007), no. 4, 487–517",
+    "cite": "https://doi.org/10.1007/s11072-008-0006-8"
+  },
+  {
+    "id": "69",
+    "description": "N.V. Zadoyanchuk and P.O. Kas'yanov, Faedo-Galerkin method for nonlinear second-order evolution equations with Volterra operators, Nonlinear Oscillations 10 (2007), no. 2, 203–228",
+    "cite": "https://doi.org/10.1007/s11072-007-0016-y"
+  },
+  {
+    "id": "70",
+    "description": "P.O. Kas'yanov, V.S. Mel'nik, and S. Toscano, Periodic solutions of nonlinear evolution equations with wλ0-pseudomonotone maps, Nonlinear Oscillations 9 (2006), no. 2, 181–206",
+    "cite": "https://doi.org/10.1007/s11072-006-0037-y"
+  },
+  {
+    "id": "71",
+    "description": "P.O. Kasyanov, V.S. Mel'nik, and A.M. Piccirillo, On Schauder basis in some Banach spaces, Reports NAS of Ukraine 4 (2006), 23–30",
+    "cite": ""
+  },
+  {
+    "id": "72",
+    "description": "P.O. Kas'yanov and V.S. Mel'nyk, On properties of subdifferential mappings in Fréchet spaces, Ukrainian Mathematical Journal 57 (2005), no. 10, 1621–1634",
+    "cite": "https://doi.org/10.1007/s11253-006-0017-5"
+  },
+  {
+    "id": "73",
+    "description": "P.O. Kasyanov and V.S. Melnik, Faedo-Galerkin method differential-operator inclusions in Banach spaces with maps of wλ₀-pseudomonotone type, Nats. Acad. Sci. Ukr., Kiev, Inst. Math., Prepr. 1 (2005), 82–105",
+    "cite": ""
+  },
+  {
+    "id": "74",
+    "description": "P. O. Kasyanov, Galerkin's method for one class differential-operator inclusions, Dopov. Reports NAS of Ukraine 9 (2005), 20–24",
+    "cite": ""
+  },
+  {
+    "id": "75",
+    "description": "P.O. Kasyanov, Galerkin method for a class of differential-operator inclusions with set-valued mappings of pseudomonotone type, Naukovi visti NTUU “KPI” (2005), no. 2, 139–151",
+    "cite": ""
+  },
+  {
+    "id": "76",
+    "description": "O.V. Kapustyan and P.O. Kas'yanov, Global attractor for a nonautonomous inclusion with discontinuous right-hand side, Ukrainian Mathematical Journal 55 (2003), no. 11",
+    "cite": "https://doi.org/10.1023/B:UKMA.0000027041.12041.e8"
+  }
+]

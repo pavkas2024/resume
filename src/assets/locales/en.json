@@ -55,7 +55,7 @@
             "site": "https://grammcell.compbio.ku.edu/"
         }
     ],
-    "sections": ["Management of internationally funded projects", "Contacts", "Profiles", "Scientific interests", "Scientific positions and memberships"],
+    "sections": ["Management of internationally funded projects", "Contacts", "Profiles", "Scientific interests", "Scientific positions and memberships", "Publications"],
     "memberships": [
         {
             "org": "Presidium of the National Academy of Sciences of Ukraine, Commission for Work with Scientific Youth of the National Academy of Sciences of Ukraine",
@@ -90,6 +90,12 @@
         "street": "prosp. Beresteiskyi",
         "build": "build."
     },
+    "pagination": {
+        "prev": "Previous",
+        "next": "Next",
+        "page": "Page",
+        "from": "from"
+      },
     "form": {
         "name": "Your Name:",
         "email": "Email:",

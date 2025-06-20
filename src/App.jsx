@@ -10,6 +10,7 @@ import style from "./App.module.css";
 const InterestsAndProfiles = lazy(() => import('./components/InterestsAndProfiles/InterestsAndProfiles'));
 const Memberships = lazy(() => import('./components/Memberships/Memberships'));
 const Projects = lazy(() => import('./components/Projects/Projects'));
+const Publications = lazy(() => import('./components/Publications/Publications'));
 const Footer = lazy(() => import('./components/Footer'));
 const ButtonUp = lazy(() => import('./components/ButtonUp/ButtonUp'));
 
@@ -40,9 +41,10 @@ const App = () => {
           <InterestsAndProfiles currentLang={language} />
           <Memberships currentLang={language} />
           <Projects currentLang={language} />
+          <Publications currentLang={language} />
           <Footer currentLang={language} />
           <ButtonUp />
-          
+
         </Suspense>
       </main>
     </div> 
