@@ -123,3 +123,10 @@
     }
   }
   
+
+  @media screen and (min-width: 1440px) {
+  .row{
+    gap: 30px;
+  }
+   
+  }

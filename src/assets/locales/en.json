@@ -90,5 +90,15 @@
         "street": "prosp. Beresteiskyi",
         "build": "build."
     },
+    "form": {
+        "name": "Your Name:",
+        "email": "Email:",
+        "message": "Message:",
+        "send": "Send",
+        "sending": "Sending...",
+        "success": "Message sent!",
+        "error": "Submission error.",
+        "generalError": "Something went wrong."
+    },
     "interests": ["System Analysis", "PDEs", "Stochastic Models of Operations Research", "AI", "DL", "RL", "MDPs", "Data Sciences", "Statistics"]
 }
