@@ -156,11 +156,18 @@ h2 {
     right: 0;
   }
   
+  :global(.pagination){
+    display:flex;
+    flex-direction: column;
+  }
+
   @media screen and (min-width: 768px) {
     h2 {
       font-size: 1.5rem;
     }
-
+    :global(.pagination){
+      flex-direction: row;
+    }
     .site{
       font-size: 1em;
     }

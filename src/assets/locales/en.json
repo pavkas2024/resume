@@ -58,29 +58,40 @@
     "sections": ["Management of internationally funded projects", "Contacts", "Profiles", "Scientific interests", "Scientific positions and memberships", "Publications"],
     "memberships": [
         {
+            "org": "National Academy of Artificial Intelligence (NAAI), USA",
+            "position": "Corresponding Member",
+            "year": "since 2025",
+            "link": "https://thenaai.org/index/index/rwdata/id/748.shtml"
+        },
+        {
             "org": "Presidium of the National Academy of Sciences of Ukraine, Commission for Work with Scientific Youth of the National Academy of Sciences of Ukraine",
             "position": "Member",
-            "year": "since 2020"
+            "year": "since 2020",
+            "link": ""
         },
         {
             "org": "International Community for CODATA, ICSU",
             "position": "Fellow",
-            "year": "since 2011"
+            "year": "since 2011",
+            "link": ""
         },
         {
             "org": "INFORMS, Applied Probability Society",
             "position": "Fellow",
-            "year": "since 2022"
+            "year": "since 2022",
+            "link": ""
         },
         {
             "org": "60th IEEE Conference on Decision and Control (CDC), session 'Advances in Stochastic Control with Partial Information II' ",
             "position": "co-chair",
-            "year": "2021"
+            "year": "2021",
+            "link": ""
         },
         {
             "org": "Journal of Applied Mathematics and Computing",
             "position": "Associate Editor",
-            "year": "2013-2022"
+            "year": "2013-2022",
+            "link": ""
         }
     ],
     "address": {

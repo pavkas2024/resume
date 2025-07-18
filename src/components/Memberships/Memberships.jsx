@@ -40,6 +40,7 @@ const MemberShips = ({currentLang}) => {
                                                 <p>{membership.position}</p>
                                                 <p>{membership.year}</p>
                                             </div>
+                                            <a className={style.itemLink} href={membership.link} target="_blank" rel="noopener noreferrer" aria-label={`${membership.org} Profile`}>{membership.link}</a>
                                         </li>
                                     ))}
                                 </ul>
