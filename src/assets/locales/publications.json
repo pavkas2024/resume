@@ -31,13 +31,18 @@
     },
     {
       "id": "7",
-      "description": "E. A. Feinberg, P.O. Kasyanov, and D. N. Kraemer, Continuity of parametric optima for possibly discontinuous functions and noncompact decision sets, submitted to Math. Oper. Res.",
+      "description": "E.A. Feinberg, P.O. Kasyanov, and D.N. Kraemer, Continuity of parametric optima for possibly discontinuous functions and noncompact decision sets, submitted to Math. Oper. Res.",
       "cite": "https://doi.org/10.48550/arXiv.2109.06299"
+    },
+    {
+      "id": "71",
+      "description": "P.O. Kasyanov, and L.S. Paliichuk, Acute angle lemma for noncompact image sets, J. Fixed Point Theory Appl. 27 (2025), no. 67, Scimago Journal & Country Rank Q1",
+      "cite": "https://doi.org/10.1007/s11784-025-01220-4"
     },
     {
       "id": "8",
       "description": "E.A. Feinberg, S. Ishizawa, P.O. Kasyanov, and D.N. Kraemer, Continuity of filters for discrete-time control problems defined by explicit equations, SIAM J. Control Optim. 63 (2025), no. 3. Scimago Journal & Country Rank Q1",
-      "cite": "https://doi.org/10.1137/24M170790"
+      "cite": "https://doi.org/10.1137/24M1707900"
     },
     {
       "id": "9",
