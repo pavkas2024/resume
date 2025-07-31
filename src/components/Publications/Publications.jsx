@@ -49,17 +49,16 @@ const Publications = ({ currentLang }) => {
         <ContainerWrap>
             <div className={style.wrap}>
                 <h2 className={style.publicationsH2}>{publications}</h2>
-                <ul className={style.list}>
+                <ol className={style.list}>
                     {currentPublications.map(pub => (
                         <li key={pub.id} className={style.item}>
-                            <p className={style.paragraph}>{pub.id}</p>
                             <p className={style.paragraph}>{pub.description}</p>
                             <a href={pub.cite} target="_blank" rel="noopener noreferrer" aria-label={`Publication ${pub.cite} site`} className={style.link}>
                                 {pub.cite}
                             </a>
                         </li>
                     ))}
-                </ul>
+                </ol>
 
                 <div className="pagination">
                     <button
