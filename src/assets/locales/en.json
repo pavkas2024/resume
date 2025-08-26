@@ -123,5 +123,5 @@
         "error": "Submission error.",
         "generalError": "Something went wrong."
     },
-    "interests": ["System Analysis", "PDEs", "Stochastic Models of Operations Research", "AI", "DL", "RL", "MDPs", "Data Sciences", "Statistics"]
+    "interests": ["PDEs", "Stochastic Models of Operations Research", "AI", "DL", "RL", "MDPs", "Data Sciences", "Statistics","Systems Analysis"]
 }

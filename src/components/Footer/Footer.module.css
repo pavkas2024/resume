@@ -60,9 +60,7 @@
     }
   }
   
-  /* Список Email & Phone (ul/li) беруть свої стилі з Contacts.module.css */
   
-  /* Адреса */
   .contactsWrap :global(.address) {
     margin-top: 24px;
     font-size: 0.9rem;
@@ -70,7 +68,7 @@
     text-align: center;
   }
   
-  /* === Копірайт === */
+ 
 
  
   
