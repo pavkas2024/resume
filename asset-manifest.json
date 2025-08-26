@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://pavkas2024.github.io/resume/static/css/main.f6def727.css",
-    "main.js": "https://pavkas2024.github.io/resume/static/js/main.cee1f4ed.js",
+    "main.js": "https://pavkas2024.github.io/resume/static/js/main.efc53190.js",
     "static/css/979.48c6df80.chunk.css": "https://pavkas2024.github.io/resume/static/css/979.48c6df80.chunk.css",
     "static/js/979.93508e78.chunk.js": "https://pavkas2024.github.io/resume/static/js/979.93508e78.chunk.js",
     "static/css/917.15ec553f.chunk.css": "https://pavkas2024.github.io/resume/static/css/917.15ec553f.chunk.css",
@@ -21,7 +21,7 @@
     "static/media/sprite.svg": "https://pavkas2024.github.io/resume/static/media/sprite.1a9603a422390cf94e735f77609cdf40.svg",
     "index.html": "https://pavkas2024.github.io/resume/index.html",
     "main.f6def727.css.map": "https://pavkas2024.github.io/resume/static/css/main.f6def727.css.map",
-    "main.cee1f4ed.js.map": "https://pavkas2024.github.io/resume/static/js/main.cee1f4ed.js.map",
+    "main.efc53190.js.map": "https://pavkas2024.github.io/resume/static/js/main.efc53190.js.map",
     "979.48c6df80.chunk.css.map": "https://pavkas2024.github.io/resume/static/css/979.48c6df80.chunk.css.map",
     "979.93508e78.chunk.js.map": "https://pavkas2024.github.io/resume/static/js/979.93508e78.chunk.js.map",
     "917.15ec553f.chunk.css.map": "https://pavkas2024.github.io/resume/static/css/917.15ec553f.chunk.css.map",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.f6def727.css",
-    "static/js/main.cee1f4ed.js"
+    "static/js/main.efc53190.js"
   ]
 }
